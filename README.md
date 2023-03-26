@@ -12,7 +12,7 @@
 - [x]  Generating QR code
 - [x]  Open route for rescuer to send their contact details
 - [x]  Rendering Map with rescuer's location
-- [x]  Connecting to backend (https://github.com/Cha195/qr-tracker-flask)
+- [x]  Connecting to backend (https://github.com/aditya-pagaria/ChildSafe-backend)
 
 <br>
 
